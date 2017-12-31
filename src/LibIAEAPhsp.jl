@@ -1,5 +1,7 @@
+__precompile__()
 module LibIAEAPhsp
 
-# package code goes here
+include("constants.jl")
+include("raw.jl")
 
 end # module
